@@ -6,3 +6,6 @@ I'm **WinterNox**. I draw pixel art when I'm free. I'm also looking into program
 - [**Space Invaders**](https://github.com/WinterNox/Space-Invaders-Remake) (using the [Pygame](https://github.com/pygame/pygame) graphics library)
 - [**Tic-Tac-Toe**](https://winternoxio.itch.io/tic-tac-toe) (using the [SFML](https://github.com/SFML/SFML) graphics library)
 - [**Ping**](https://winternoxio.itch.io/ping) (using the [SFML](https://github.com/SFML/SFML) graphics library)
+
+### Misc
+- [**Mothership Mesh Animation Template (PewPew Live)**](https://github.com/WinterNox/Mothership-Mesh-Animation-Template)
